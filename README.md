@@ -29,4 +29,4 @@ Third item
 
 ![An image of a cat](http://placekitten.com/200/300)
 
-![An image of the Mona Lisa](asset/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700%20(1).jpg_)
+![An image of the Mona Lisa](asset/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700%20(1).jpg)
